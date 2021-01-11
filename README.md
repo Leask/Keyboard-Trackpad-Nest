@@ -1,4 +1,4 @@
-# HHKB-Trackpad-Nest
+# HHKB Trackpad Nest
 
 A 3D printing `HHKB-Trackpad-Nest` project can merge your HHKB and Apple Magic Trackpad 2 into one piece. That will make you work like using a MacBook Pro keyboard-trackpad layout but with a fantastic HHKB.
 
