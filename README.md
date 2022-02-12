@@ -1,12 +1,12 @@
 # iPhone MagSafe Stand
 
-[images/Screen_Shot_2021-03-06_at_6.25.01_PM.png](images/Screen_Shot_2021-03-06_at_6.25.01_PM.png)
+![images/Screen_Shot_2021-03-06_at_6.25.01_PM.png](images/Screen_Shot_2021-03-06_at_6.25.01_PM.png)
 
-[images/IMG_3378.jpeg](images/IMG_3378.jpeg)
+![images/IMG_3378.jpeg](images/IMG_3378.jpeg)
 
-[images/IMG_3377.jpeg](images/IMG_3377.jpeg)
+![images/IMG_3377.jpeg](images/IMG_3377.jpeg)
 
-[images/IMG_3379.jpeg](images/IMG_3379.jpeg)
+![images/IMG_3379.jpeg](images/IMG_3379.jpeg)
 
 # Original Credited
 
