@@ -2,7 +2,7 @@
 
 ## Door Stopper
 
-![Design](https://github.com/Leask/Doorstop/blob/main/images/Screen%20Shot%202021-06-15%20at%2011.19.45%20PM.png?raw=true "Design")
+![Design](https://github.com/Leask/Hardware/blob/main/images/Screen%20Shot%202021-06-15%20at%2011.19.45%20PM.png?raw=true "Design")
 
 ## Shower Mount
 
@@ -14,4 +14,4 @@
 
 A Drain-Pan Design for Kitchen
 
-![Design](https://github.com/Leask/Drain-Pan/blob/main/Wiki/Screen%20Shot%202021-06-17%20at%202.58.21%20PM.png?raw=true "Design")
+![Design](https://github.com/Leask/Hardware/blob/main/images/Screen%20Shot%202021-06-17%20at%202.58.21%20PM.png?raw=true "Design")
