@@ -35,3 +35,8 @@
 A Drain-Pan Design for Kitchen
 
 ![Design](https://github.com/Leask/Hardware/blob/main/images/Screen%20Shot%202021-06-17%20at%202.58.21%20PM.png?raw=true "Design")
+
+## Hive Box
+
+![Hive Box](https://github.com/Leask/Hardware/blob/main/images/Screen%20Shot%202021-04-05%20at%202.43.42%20PM.png?raw=true
+ "Hive Box")
