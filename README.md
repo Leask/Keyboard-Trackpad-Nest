@@ -52,3 +52,9 @@ A Drain-Pan Design for Kitchen
 
 ![Hive Box](https://github.com/Leask/Hardware/blob/main/images/Screen%20Shot%202021-04-05%20at%202.43.42%20PM.png?raw=true
  "Hive Box")
+
+
+## Soap Box
+
+ <img width="3120" alt="Screen Shot 2022-02-23 at 10 09 26 PM" src="https://user-images.githubusercontent.com/233022/155612360-115aedc7-eebf-4bf6-b186-a249697e79c4.png">
+ 
