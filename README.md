@@ -4,8 +4,8 @@ A 3D printing `Keyboard-Trackpad-Nest` project can merge your keyboard and Apple
 
 This project supports two different configurations:
 
-- HHKB Professional 2 + Apple Magic Trackpad 2
-- Apple Magic Keyboard 3 + Apple Magic Trackpad 3
+- [HHKB Professional 2 + Apple Magic Trackpad 2](https://github.com/Leask/Keyboard-Trackpad-Nest/tree/main/HHKB)
+- Apple Magic Keyboard 3 + Apple Magic Trackpad 3(https://github.com/Leask/Keyboard-Trackpad-Nest/tree/main/Magic-Keyboard)
 
 This project was designed in Blender. And I am providing all the `.blend` files and a printable `.stl` model. Feel free to make any tweaks and remix. To print this project, you will need a 3D printer that can print up to 30.5 cm * 26.5 cm.
 
