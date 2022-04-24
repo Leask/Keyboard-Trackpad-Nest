@@ -13,10 +13,10 @@ If you have any problem, you can find me here: https://twitter.com/LeaskH/ .
 
 This project is `NOT for COMMERCIAL use`.
 
-## Overview for `HHKB Professional 2 + Apple Magic Trackpad 2` version
+## Overview for `HHKB Professional 2 + Apple Magic Trackpad 2`
 
 ![HHKB-Trackpad-Nest-Design](https://github.com/Leask/HHKB-Trackpad-Nest/blob/main/HHKB/images/Screen%20Shot%202020-12-31%20at%202.26.57%20AM.png?raw=true "HHKB-Trackpad-Nest-Design")
 
 ![HHKB-Trackpad-Nest-Photo](https://github.com/Leask/HHKB-Trackpad-Nest/blob/main/HHKB/images/IMG_3020.jpg?raw=true "HHKB-Trackpad-Nest-Photo")
 
-## Overview for `HHKB Professional 2 + Apple Magic Trackpad 2` version
+## Overview for `HHKB Professional 2 + Apple Magic Trackpad 2`
