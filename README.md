@@ -11,7 +11,7 @@ This project was designed in Blender. And I am providing all the `.blend` files 
 
 If you have any problem, you can find me here: https://twitter.com/LeaskH/ .
 
-This project is `not for commercial use`.
+This project is `NOT for COMMERCIAL use`.
 
 ## Overview for `HHKB Professional 2 + Apple Magic Trackpad 2` version
 
