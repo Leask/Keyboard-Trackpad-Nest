@@ -20,3 +20,7 @@ This project is `NOT for COMMERCIAL use`.
 ![HHKB-Trackpad-Nest-Photo](https://github.com/Leask/HHKB-Trackpad-Nest/blob/main/HHKB/images/IMG_3020.jpg?raw=true "HHKB-Trackpad-Nest-Photo")
 
 ## Overview for `HHKB Professional 2 + Apple Magic Trackpad 2`
+
+![IMG_6260](https://user-images.githubusercontent.com/233022/164989022-34a50328-6912-4a6d-a379-2ad926267f10.png)
+
+![IMG_1679](https://user-images.githubusercontent.com/233022/164989034-8dc4b7bf-212b-4706-80c0-f1f8c26855e0.jpg)
